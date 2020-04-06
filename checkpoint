@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/yash/Desktop/chatbot-master/model.tflearn"
+all_model_checkpoint_paths: "/home/yash/Desktop/chatbot-master/model.tflearn"
